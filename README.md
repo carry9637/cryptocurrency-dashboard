@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CryptoTracker Pro - Student Project
 
 A comprehensive cryptocurrency dashboard built with React, Redux, and modern web technologies as part of a college web development project.
@@ -136,3 +137,32 @@ This project is created for educational purposes as part of a college web develo
 **Course**: Web Development  
 **Institution**: [College Name]  
 **Year**: 2024
+=======
+# cryptocurrency-dashboard
+A responsive cryptocurrency dashboard to track real-time coin prices, charts, and market trends.
+
+## 🚀 Features
+
+- Live cryptocurrency prices
+- Currency selector (INR, USD, etc.)
+- Exchange rate converter (Crypto ↔ Currency)
+- Market cap list
+- Search cryptocurrency by name
+- Interactive charts (Line, Bar, Pie)
+
+## 🛠️ Tech Used
+
+- ReactJS
+- Redux
+- Tailwind CSS
+- Chart.js
+- CoinGecko API
+
+## 📦 Installation & Run
+
+```bash
+git clone https://github.com/cary9637/cryptocurrency-dashboard
+cd cryptocurrency dashboard
+npm install
+npm run dev
+>>>>>>> 0df8dbfafcf1659a47a2fd3aa31ec017aeccdaaf
